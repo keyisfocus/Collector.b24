@@ -18,3 +18,4 @@ def index(request):
     process(Lead)
 
     return render(request, 'index.html')
+
